@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[firemage.github.io]]></title>
+  <link href="http://FiReMaGe.github.io/atom.xml" rel="self"/>
+  <link href="http://FiReMaGe.github.io/"/>
+  <updated>2013-06-12T13:32:12-07:00</updated>
+  <id>http://FiReMaGe.github.io/</id>
+  <author>
+    <name><![CDATA[FiReMaGe]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello!]]></title>
+    <link href="http://FiReMaGe.github.io/blog/2013/06/12/hello/"/>
+    <updated>2013-06-12T13:17:00-07:00</updated>
+    <id>http://FiReMaGe.github.io/blog/2013/06/12/hello</id>
+    <content type="html"><![CDATA[<p>Just trying this out.</p>
+]]></content>
+  </entry>
+  
+</feed>
